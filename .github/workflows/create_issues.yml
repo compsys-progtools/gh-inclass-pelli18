@@ -1,6 +1,6 @@
 on:
   workflow_dispatch
-
+  
 jobs:
   about_issue:
     name: Create about Issue
